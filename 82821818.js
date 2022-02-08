@@ -1,4 +1,3 @@
-
 $('form').submit(function() {
 	var d = $('form');
 
